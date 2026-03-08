@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>800</width>
-    <height>600</height>
+    <height>621</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -72,7 +72,7 @@
        </widget>
       </item>
       <item alignment="Qt::AlignHCenter">
-       <widget class="QLineEdit" name="lineEdit">
+       <widget class="QLineEdit" name="txt_username">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -95,7 +95,7 @@
        </widget>
       </item>
       <item alignment="Qt::AlignHCenter">
-       <widget class="QLineEdit" name="lineEdit_2">
+       <widget class="QLineEdit" name="txt_password">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -114,7 +114,7 @@
        </widget>
       </item>
       <item alignment="Qt::AlignHCenter">
-       <widget class="QPushButton" name="pushButton">
+       <widget class="QPushButton" name="btn_login">
         <property name="maximumSize">
          <size>
           <width>100</width>
