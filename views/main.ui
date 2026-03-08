@@ -369,7 +369,8 @@ pading: 5 px;</string>
               <item>
                <widget class="QLineEdit" name="lineEdit">
                 <property name="styleSheet">
-                 <string notr="true">background-color: #f6f6f6;</string>
+                 <string notr="true">border-image: url(&quot;img/rosa.jpg&quot;);
+background-color: #f6f6f6;</string>
                 </property>
                 <property name="text">
                  <string>Search here</string>
@@ -383,7 +384,8 @@ pading: 5 px;</string>
               <item>
                <widget class="QLabel" name="label_12">
                 <property name="styleSheet">
-                 <string notr="true">border-image: url(&quot;img/peonia.png&quot;);</string>
+                 <string notr="true">border-image: url(&quot;img/rosa.jpg&quot;);
+background-color: #f6f6f6;</string>
                 </property>
                 <property name="text">
                  <string/>
@@ -392,6 +394,10 @@ pading: 5 px;</string>
               </item>
               <item>
                <widget class="QLabel" name="label_11">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(&quot;img/rosa.jpg&quot;);
+background-color: #f6f6f6;</string>
+                </property>
                 <property name="text">
                  <string/>
                 </property>
@@ -399,6 +405,10 @@ pading: 5 px;</string>
               </item>
               <item>
                <widget class="QLabel" name="label_10">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(&quot;img/rosa.jpg&quot;);
+background-color: #f6f6f6;</string>
+                </property>
                 <property name="text">
                  <string/>
                 </property>
@@ -406,6 +416,10 @@ pading: 5 px;</string>
               </item>
               <item>
                <widget class="QLabel" name="label_9">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(&quot;img/rosa.jpg&quot;);
+background-color: #f6f6f6;</string>
+                </property>
                 <property name="text">
                  <string/>
                 </property>
@@ -413,6 +427,10 @@ pading: 5 px;</string>
               </item>
               <item>
                <widget class="QLabel" name="label_8">
+                <property name="styleSheet">
+                 <string notr="true">border-image: url(&quot;img/rosa.jpg&quot;);
+background-color: #f6f6f6;</string>
+                </property>
                 <property name="text">
                  <string/>
                 </property>
@@ -422,6 +440,12 @@ pading: 5 px;</string>
             </item>
             <item>
              <layout class="QHBoxLayout" name="horizontalLayout_7">
+              <property name="topMargin">
+               <number>0</number>
+              </property>
+              <property name="bottomMargin">
+               <number>40</number>
+              </property>
               <item>
                <widget class="QPushButton" name="pushButton_20">
                 <property name="styleSheet">
@@ -552,8 +576,11 @@ border-radius: 5px;</string>
            <layout class="QHBoxLayout" name="horizontalLayout_5">
             <item>
              <widget class="QLabel" name="label_13">
+              <property name="styleSheet">
+               <string notr="true">border-image: url(&quot;img/maceta.jpg&quot;);</string>
+              </property>
               <property name="text">
-               <string>TextLabel</string>
+               <string/>
               </property>
              </widget>
             </item>
